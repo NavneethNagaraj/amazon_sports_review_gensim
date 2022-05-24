@@ -4,4 +4,4 @@ By using Amazon Sports Review created word embeddings by training word2vec on am
 Dataset - https://jmcauley.ucsd.edu/data/amazon/ (download Sports and Outdoors reviews)
 
 Using Gensim library created word embeddings on review text column. 
-By using these word embeddings we can create similar words.
+By using these word embeddings can create similar words.
